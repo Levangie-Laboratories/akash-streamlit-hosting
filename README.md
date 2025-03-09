@@ -44,7 +44,7 @@ This is a feature-rich e-commerce application built with Streamlit. It provides 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/streamlit-ecommerce.git
+git clone https://github.com/Levangie-Laboratories/akash-streamlit-hosting
 cd streamlit-ecommerce
 ```
 
@@ -60,7 +60,7 @@ pip install -r app/requirements.txt
 streamlit run app/app.py
 ```
 
-2. Open your web browser and navigate to http://localhost:8501
+2. Open your web browser and navigate to http://localhost:8501 (streamlit always hosts on port 8501)
 
 3. Browse the product catalog, add items to your cart, and explore the features!
 
